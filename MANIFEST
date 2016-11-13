@@ -1,0 +1,22 @@
+Changes
+lib/DBD/TSM.pm
+lib/DBD/TSM/configure.pl
+lib/DBD/TSM/Functions.pm
+LICENSE
+Makefile.PL
+MANIFEST
+META.yml			Module meta-data (added by MakeMaker)
+README
+README.md
+t/DBD-TSM-Query.t
+t/DBD-TSM.t
+t/simu/DBD_Release.txt
+t/simu/dsm_config.ini
+t/simu/q_node.txt
+t/simu/query_status.txt
+t/simu/select_domains.txt
+t/simu/show_threads.txt
+t/simu/tsm_env.sh
+t/simu/tsm_query_node.txt
+t/simu/tsm_request.txt
+t/simu/tsm_select_from_nodes.txt
